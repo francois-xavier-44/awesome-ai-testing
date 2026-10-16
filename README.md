@@ -99,6 +99,7 @@ End-to-end testing platforms with AI at the core.
 - [Virtuoso QA](https://www.virtuosoqa.com/) 💰 - NLP-based codeless E2E platform with self-healing and visual testing.
 - [Katalon Studio](https://katalon.com/) 🆓💰 - Test automation platform with AI features including TrueTest and Visual Testing.
 - [Testorim](https://testorim.com/) 💰 - Describe a web test in plain English and an AI agent plans the steps, runs them in a real Chromium browser, and reports what happened with video, a Playwright trace, and an accessibility scan.
+- [Mr Suricate](https://www.mrsuricate.com/) 💰 - No-code test automation for web, mobile and APIs where AI classifies each failure, confirms it with an isolated replay and proposes a fix for the team to approve. MCP compliant. Tests import/export to Playwright.
 
 ## Mobile AI Testing
 
